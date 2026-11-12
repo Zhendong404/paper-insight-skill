@@ -1,0 +1,49 @@
+{
+  "title": "AIPerf：Meta统一建模支撑六阶段软硬件协同设计，平均绝对步时误差6.2%",
+  "insight": "洞察 | 生产级规划器的价值在于跨平台一致比较、配置排序保真度和性能差距归因",
+  "implication": "启示 | 建议围绕目标负载建立端到端建模与校准闭环，为自研与竞品对标及目标平台架构规划提供依据",
+  "problem": [
+    "模型迭代以天计，硬件决策需提前数年，二者节奏错位放大规划风险",
+    "并行、内存、调度、拓扑与MoE不均衡相互耦合，孤立优化可能选错方案",
+    "Meta投入超过10,000个CPU核，持续评估跨平台、跨模型的数百万个配置"
+  ],
+  "method_title": "②方案机制：统一框架支持六阶段决策与联合5D搜索",
+  "method": [
+    "覆盖架构设计、竞争分析、硅设计、部署、模型协同设计与轨迹设置",
+    "联合搜索TP/PP/CP/EP/DP，先剪除内存不可行的配置",
+    "调度感知时序模型刻画流水线气泡与计算通信重叠",
+    "模块化性能模型支持跨平台重定向与公平对比",
+    "校准MoE路由不均衡，避免乐观预测误导配置选择"
+  ],
+  "result_main": "4个模型、H100/GB300、8种配置：平均绝对步时误差6.2%，最坏11.2%",
+  "result_secondary": "4K MTIA 400建模：fat-tree使GPT-OSS 120B的迭代时间较torus约降20%",
+  "key_technologies": [
+    "联合5D搜索与内存可行性剪枝，覆盖耦合的训练计划空间",
+    "调度感知时序与通信建模，将芯片和拓扑参数映射到端到端训练性能",
+    "跨平台模块化模型结合MoE不均衡校准，支撑方案排序与性能差距归因"
+  ],
+  "source": "Source: MICRO 2026 | AIPerf: Meta’s Performance Modeling and HW/SW Co-design Framework | Park et al., Meta",
+  "figures": {
+    "context_figure": {
+      "path": "aiperf-context_figure.png",
+      "source": "PDF p.3, Fig.1",
+      "alt": "六阶段硬件AI协同设计生命周期"
+    },
+    "method_figure": {
+      "path": "aiperf-method_figure.png",
+      "source": "PDF p.7, Fig.2",
+      "alt": "AIPerf架构和并行探索器"
+    },
+    "evaluation_figure": {
+      "path": "aiperf-evaluation_figure.png",
+      "source": "PDF p.11, Table IV; configuration and accuracy: PDF p.10 Table II / p.11 III-G",
+      "alt": "评测模型表（准确性指标来源为Table II和III-G）"
+    },
+    "result_figure": {
+      "path": "aiperf-result_figure.png",
+      "source": "PDF p.13, Fig.7 and IV-D",
+      "alt": "4K MTIA400拓扑建模对比，时间归一化到fat-tree"
+    }
+  },
+  "notes": "样例依据原始论文生成。标题与技术收益：PDF p.11 §III-G，平均绝对step-time误差6.2%，最坏11.2%，4个模型、H100/GB300、8种配置；不是94%的准确率。\n洞察：PDF p.3 §II-B及p.4 Phase 4，关于一致性、plan-ranking fidelity和gap attribution的归纳。\n问题与规模：PDF p.1–2及p.7 §III-B。\n方法：PDF p.2贡献及p.6–10 §III。\n拓扑收益：PDF p.13 §IV-D、Fig.7，是模型探索，在GPT-OSS 120B上fat-tree较torus约降20%迭代时间；dense模型差别小，不推广为普遍规律。\n启示属于分析者迁移建议，论文未验证目标平台收益。\nDOI: 10.1109/MICRO67795.2026.00031"
+}

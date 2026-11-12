@@ -1,0 +1,855 @@
+{
+  "schema_version": 1,
+  "source_sha256": "be6583fcb01f308eb8902545465a764007ea43956d7c9c351c2686c6e0468009",
+  "source_slide_count": 1,
+  "canvas": {
+    "width_emu": 12196763,
+    "height_emu": 6858000,
+    "width_in": 13.338542213473316,
+    "height_in": 7.5
+  },
+  "active_master_part": "/ppt/slideMasters/slideMaster3.xml",
+  "active_layout_part": "/ppt/slideLayouts/slideLayout5.xml",
+  "active_layout_name": "1_Chinese text page",
+  "master_count": 4,
+  "layout_count": 6,
+  "palette": {
+    "accent_actual": "C00000",
+    "accent_theme": "C7000A",
+    "text_main": "1D1D1A",
+    "text_technical": "151515",
+    "panel_fill": "FFFFFF",
+    "insight_fill": "F2F2F2",
+    "border_and_label_fill": "D3D3D3"
+  },
+  "objects": [
+    {
+      "source_shape_id": 2,
+      "name": "副标题 1",
+      "role": "title",
+      "bbox_in": [
+        0.533869,
+        0.188757,
+        11.746107,
+        1.086395
+      ],
+      "bbox_normalized": [
+        0.040025,
+        0.025168,
+        0.880614,
+        0.144853
+      ],
+      "bbox_local_emu": [
+        488170,
+        172599,
+        10740640,
+        993400
+      ],
+      "reference_char_count": 56,
+      "paragraphs": [
+        {
+          "reference_char_count": 56,
+          "styles_explicit": [
+            {
+              "font_size_pt": 17.0,
+              "family": null,
+              "bold": true,
+              "italic": null,
+              "color_xml": "<a:srgbClr val=\"C00000\""
+            }
+          ],
+          "paragraph_properties_xml": null
+        }
+      ]
+    },
+    {
+      "source_shape_id": 4,
+      "name": "矩形 3",
+      "role": "insight_and_implication",
+      "bbox_in": [
+        1.337216,
+        0.918006,
+        11.359332,
+        0.697369
+      ],
+      "bbox_normalized": [
+        0.100252,
+        0.122401,
+        0.851617,
+        0.092983
+      ],
+      "bbox_local_emu": [
+        1371600,
+        952834,
+        10386973,
+        637674
+      ],
+      "reference_char_count": 130,
+      "paragraphs": [
+        {
+          "reference_char_count": 62,
+          "styles_explicit": [
+            {
+              "font_size_pt": 12.0,
+              "family": "Microsoft YaHei UI",
+              "bold": true,
+              "italic": null,
+              "color_xml": "<a:schemeClr val=\"tx1\""
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"285750\" indent=\"-285750\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:buFont typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/><a:buChar char=\"•\"/></a:pPr>"
+        },
+        {
+          "reference_char_count": 67,
+          "styles_explicit": [
+            {
+              "font_size_pt": 12.0,
+              "family": "Microsoft YaHei UI",
+              "bold": true,
+              "italic": null,
+              "color_xml": "<a:srgbClr val=\"C00000\""
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"285750\" indent=\"-285750\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:buFont typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/><a:buChar char=\"•\"/></a:pPr>"
+        }
+      ]
+    },
+    {
+      "source_shape_id": 5,
+      "name": "文本框 4",
+      "role": "insight_label",
+      "bbox_in": [
+        0.478094,
+        0.946931,
+        0.705001,
+        0.639518
+      ],
+      "bbox_normalized": [
+        0.035843,
+        0.126258,
+        0.052854,
+        0.085269
+      ],
+      "bbox_local_emu": [
+        586019,
+        979283,
+        644653,
+        584775
+      ],
+      "reference_char_count": 5,
+      "paragraphs": [
+        {
+          "reference_char_count": 2,
+          "styles_explicit": [
+            {
+              "font_size_pt": 16.0,
+              "family": "Microsoft YaHei",
+              "bold": true,
+              "italic": null,
+              "color_xml": "<a:srgbClr val=\"C00000\""
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" algn=\"l\"/>"
+        },
+        {
+          "reference_char_count": 2,
+          "styles_explicit": [
+            {
+              "font_size_pt": 16.0,
+              "family": "Microsoft YaHei",
+              "bold": true,
+              "italic": null,
+              "color_xml": "<a:srgbClr val=\"C00000\""
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" algn=\"l\"/>"
+        }
+      ]
+    },
+    {
+      "source_shape_id": 7,
+      "name": "直线连接符 6",
+      "role": "red_separator",
+      "bbox_in": [
+        1.183095,
+        0.918006,
+        0.0,
+        0.697369
+      ],
+      "bbox_normalized": [
+        0.088697,
+        0.122401,
+        0.0,
+        0.092983
+      ],
+      "bbox_local_emu": [
+        1230672,
+        952834,
+        0,
+        637674
+      ]
+    },
+    {
+      "source_shape_id": 10,
+      "name": "矩形 9",
+      "role": "problem_frame",
+      "bbox_in": [
+        0.478094,
+        1.920542,
+        3.98551,
+        3.658914
+      ],
+      "bbox_normalized": [
+        0.035843,
+        0.256072,
+        0.298796,
+        0.487855
+      ],
+      "bbox_local_emu": [
+        437169,
+        1756144,
+        3644350,
+        3345711
+      ],
+      "reference_char_count": 0,
+      "paragraphs": [
+        {
+          "reference_char_count": 0,
+          "styles_explicit": [],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" algn=\"ctr\"/>"
+        }
+      ]
+    },
+    {
+      "source_shape_id": 11,
+      "name": "矩形 10",
+      "role": "method_frame",
+      "bbox_in": [
+        4.620738,
+        1.920542,
+        5.113516,
+        3.658914
+      ],
+      "bbox_normalized": [
+        0.34642,
+        0.256072,
+        0.383364,
+        0.487855
+      ],
+      "bbox_local_emu": [
+        4225203,
+        1756144,
+        4675799,
+        3345711
+      ],
+      "reference_char_count": 0,
+      "paragraphs": [
+        {
+          "reference_char_count": 0,
+          "styles_explicit": [],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" algn=\"ctr\"/>"
+        }
+      ]
+    },
+    {
+      "source_shape_id": 12,
+      "name": "矩形 11",
+      "role": "results_frame",
+      "bbox_in": [
+        9.891389,
+        1.920542,
+        3.091594,
+        3.658914
+      ],
+      "bbox_normalized": [
+        0.741564,
+        0.256072,
+        0.231779,
+        0.487855
+      ],
+      "bbox_local_emu": [
+        9044686,
+        1756144,
+        2826954,
+        3345711
+      ],
+      "reference_char_count": 0,
+      "paragraphs": [
+        {
+          "reference_char_count": 0,
+          "styles_explicit": [],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" algn=\"ctr\"/>"
+        }
+      ]
+    },
+    {
+      "source_shape_id": 13,
+      "name": "文本框 12",
+      "role": "problem",
+      "bbox_in": [
+        0.626394,
+        2.052325,
+        3.658914,
+        1.66457
+      ],
+      "bbox_normalized": [
+        0.046961,
+        0.273643,
+        0.274311,
+        0.221943
+      ],
+      "bbox_local_emu": [
+        572775,
+        1876646,
+        3345711,
+        1522083
+      ],
+      "reference_char_count": 148,
+      "paragraphs": [
+        {
+          "reference_char_count": 5,
+          "styles_explicit": [
+            {
+              "font_size_pt": 9.0,
+              "family": "Microsoft YaHei",
+              "bold": true,
+              "italic": null,
+              "color_xml": "<a:srgbClr val=\"C00000\""
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" algn=\"l\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc></a:pPr>"
+        },
+        {
+          "reference_char_count": 31,
+          "styles_explicit": [
+            {
+              "font_size_pt": 9.0,
+              "family": "Microsoft YaHei",
+              "bold": true,
+              "italic": null,
+              "color_xml": "<a:srgbClr val=\"C00000\""
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"171450\" indent=\"-171450\" algn=\"l\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:buFont typeface=\"Wingdings\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"Ø\"/></a:pPr>"
+        },
+        {
+          "reference_char_count": 48,
+          "styles_explicit": [
+            {
+              "font_size_pt": 9.0,
+              "family": "Microsoft YaHei",
+              "bold": true,
+              "italic": null
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"171450\" indent=\"-171450\" algn=\"l\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:buFont typeface=\"Wingdings\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"Ø\"/></a:pPr>"
+        },
+        {
+          "reference_char_count": 0,
+          "styles_explicit": [],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"171450\" indent=\"-171450\" algn=\"l\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:buFont typeface=\"Wingdings\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"Ø\"/></a:pPr>"
+        },
+        {
+          "reference_char_count": 60,
+          "styles_explicit": [
+            {
+              "font_size_pt": 9.0,
+              "family": "Microsoft YaHei",
+              "bold": true,
+              "italic": null
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"171450\" indent=\"-171450\" algn=\"l\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:buFont typeface=\"Wingdings\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"Ø\"/></a:pPr>"
+        }
+      ]
+    },
+    {
+      "source_shape_id": 14,
+      "name": "图片 13",
+      "role": "context_figure",
+      "bbox_in": [
+        0.626394,
+        3.72446,
+        3.766776,
+        1.372551
+      ],
+      "bbox_normalized": [
+        0.046961,
+        0.496595,
+        0.282398,
+        0.183007
+      ],
+      "bbox_local_emu": [
+        572775,
+        3405646,
+        3444340,
+        1255061
+      ],
+      "image_size_px": [
+        1460,
+        532
+      ],
+      "image_sha1": "a1104438c0f1d411eb58852555e4bac63b8e8bfc",
+      "example_asset": "examples/aiperf-context_figure.png"
+    },
+    {
+      "source_shape_id": 15,
+      "name": "文本框 14",
+      "role": "method",
+      "bbox_in": [
+        4.676783,
+        2.052324,
+        4.949608,
+        1.437373
+      ],
+      "bbox_normalized": [
+        0.350622,
+        0.273643,
+        0.371076,
+        0.19165
+      ],
+      "bbox_local_emu": [
+        4276450,
+        1876645,
+        4525922,
+        1314334
+      ],
+      "reference_char_count": 183,
+      "paragraphs": [
+        {
+          "reference_char_count": 41,
+          "styles_explicit": [
+            {
+              "font_size_pt": 9.0,
+              "family": "Microsoft YaHei",
+              "bold": true,
+              "italic": null,
+              "color_xml": "<a:srgbClr val=\"C00000\""
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" algn=\"l\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc></a:pPr>"
+        },
+        {
+          "reference_char_count": 36,
+          "styles_explicit": [
+            {
+              "font_size_pt": 9.0,
+              "family": "Microsoft YaHei",
+              "bold": true,
+              "italic": null
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"171450\" indent=\"-171450\" algn=\"l\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:buFont typeface=\"Wingdings\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"Ø\"/></a:pPr>"
+        },
+        {
+          "reference_char_count": 27,
+          "styles_explicit": [
+            {
+              "font_size_pt": 9.0,
+              "family": "Microsoft YaHei",
+              "bold": null,
+              "italic": null
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"171450\" indent=\"-171450\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:buFont typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/><a:buChar char=\"•\"/></a:pPr>"
+        },
+        {
+          "reference_char_count": 31,
+          "styles_explicit": [
+            {
+              "font_size_pt": 9.0,
+              "family": "Microsoft YaHei",
+              "bold": null,
+              "italic": null,
+              "color_xml": "<a:srgbClr val=\"C00000\""
+            },
+            {
+              "font_size_pt": 9.0,
+              "family": "Microsoft YaHei",
+              "bold": null,
+              "italic": null
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"171450\" indent=\"-171450\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:buFont typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/><a:buChar char=\"•\"/></a:pPr>"
+        },
+        {
+          "reference_char_count": 24,
+          "styles_explicit": [
+            {
+              "font_size_pt": 9.0,
+              "family": "Microsoft YaHei",
+              "bold": null,
+              "italic": null
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"171450\" indent=\"-171450\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:buFont typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/><a:buChar char=\"•\"/></a:pPr>"
+        },
+        {
+          "reference_char_count": 19,
+          "styles_explicit": [
+            {
+              "font_size_pt": 9.0,
+              "family": "Microsoft YaHei",
+              "bold": null,
+              "italic": null
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"171450\" indent=\"-171450\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:buFont typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/><a:buChar char=\"•\"/></a:pPr>"
+        }
+      ]
+    },
+    {
+      "source_shape_id": 16,
+      "name": "图片 15",
+      "role": "method_figure",
+      "bbox_in": [
+        5.809047,
+        3.552559,
+        2.367734,
+        1.544452
+      ],
+      "bbox_normalized": [
+        0.435508,
+        0.473675,
+        0.177511,
+        0.205927
+      ],
+      "bbox_local_emu": [
+        5311793,
+        3248460,
+        2165056,
+        1412247
+      ],
+      "image_size_px": [
+        742,
+        484
+      ],
+      "image_sha1": "7f984f8a5dd297b9d8945802160ee845f39489b0",
+      "example_asset": "examples/aiperf-method_figure.png"
+    },
+    {
+      "source_shape_id": 17,
+      "name": "文本框 16",
+      "role": "result_main",
+      "bbox_in": [
+        9.886643,
+        2.052324,
+        3.091594,
+        0.755782
+      ],
+      "bbox_normalized": [
+        0.741209,
+        0.273643,
+        0.231779,
+        0.100771
+      ],
+      "bbox_local_emu": [
+        9040346,
+        1876645,
+        2826954,
+        691087
+      ],
+      "reference_char_count": 52,
+      "paragraphs": [
+        {
+          "reference_char_count": 5,
+          "styles_explicit": [
+            {
+              "font_size_pt": 9.0,
+              "family": "Microsoft YaHei",
+              "bold": true,
+              "italic": null,
+              "color_xml": "<a:srgbClr val=\"C00000\""
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" algn=\"l\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc></a:pPr>"
+        },
+        {
+          "reference_char_count": 46,
+          "styles_explicit": [
+            {
+              "font_size_pt": 9.0,
+              "family": "Microsoft YaHei",
+              "bold": true,
+              "italic": null
+            },
+            {
+              "font_size_pt": 9.0,
+              "family": "Microsoft YaHei",
+              "bold": null,
+              "italic": null
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"171450\" indent=\"-171450\" algn=\"l\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:buFont typeface=\"Wingdings\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"Ø\"/></a:pPr>"
+        }
+      ]
+    },
+    {
+      "source_shape_id": 19,
+      "name": "图片 18",
+      "role": "evaluation_figure",
+      "bbox_in": [
+        9.901659,
+        2.807905,
+        3.061562,
+        0.893645
+      ],
+      "bbox_normalized": [
+        0.742334,
+        0.374387,
+        0.229527,
+        0.119153
+      ],
+      "bbox_local_emu": [
+        9054077,
+        2567548,
+        2799492,
+        817149
+      ],
+      "image_size_px": [
+        740,
+        216
+      ],
+      "image_sha1": "99b3ff8a2a6db3355fb869ff2e724ac81340b631",
+      "example_asset": "examples/aiperf-evaluation_figure.png"
+    },
+    {
+      "source_shape_id": 21,
+      "name": "图片 20",
+      "role": "result_figure",
+      "bbox_in": [
+        10.162989,
+        4.232358,
+        2.538901,
+        1.273109
+      ],
+      "bbox_normalized": [
+        0.761927,
+        0.564314,
+        0.190343,
+        0.169748
+      ],
+      "bbox_local_emu": [
+        9293037,
+        3870068,
+        2321571,
+        1164131
+      ],
+      "image_size_px": [
+        694,
+        348
+      ],
+      "image_sha1": "25f0d996116b91c3db6325c736296c3db96afc67",
+      "example_asset": "examples/aiperf-result_figure.png"
+    },
+    {
+      "source_shape_id": 22,
+      "name": "文本框 21",
+      "role": "result_secondary",
+      "bbox_in": [
+        9.901659,
+        3.72446,
+        3.091594,
+        0.528584
+      ],
+      "bbox_normalized": [
+        0.742334,
+        0.496595,
+        0.231779,
+        0.070478
+      ],
+      "bbox_local_emu": [
+        9054077,
+        3405646,
+        2826954,
+        483337
+      ],
+      "reference_char_count": 54,
+      "paragraphs": [
+        {
+          "reference_char_count": 54,
+          "styles_explicit": [
+            {
+              "font_size_pt": 9.0,
+              "family": "Microsoft YaHei",
+              "bold": true,
+              "italic": null,
+              "color_xml": "<a:srgbClr val=\"C00000\""
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"171450\" indent=\"-171450\" algn=\"l\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:buFont typeface=\"Wingdings\" pitchFamily=\"2\" charset=\"2\"/><a:buChar char=\"Ø\"/></a:pPr>"
+        }
+      ]
+    },
+    {
+      "source_shape_id": 24,
+      "name": "矩形 23",
+      "role": "key_technologies",
+      "bbox_in": [
+        1.633922,
+        5.74654,
+        11.359332,
+        0.992245
+      ],
+      "bbox_normalized": [
+        0.122496,
+        0.766205,
+        0.851617,
+        0.132299
+      ],
+      "bbox_local_emu": [
+        1494058,
+        5254636,
+        10386973,
+        907309
+      ],
+      "reference_char_count": 143,
+      "paragraphs": [
+        {
+          "reference_char_count": 49,
+          "styles_explicit": [
+            {
+              "font_size_pt": 12.0,
+              "family": "Microsoft YaHei UI",
+              "bold": true,
+              "italic": null,
+              "color_xml": "<a:srgbClr val=\"151515\""
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"285750\" indent=\"-285750\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:buFont typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/><a:buChar char=\"•\"/></a:pPr>"
+        },
+        {
+          "reference_char_count": 48,
+          "styles_explicit": [
+            {
+              "font_size_pt": 12.0,
+              "family": "Microsoft YaHei UI",
+              "bold": true,
+              "italic": null,
+              "color_xml": "<a:srgbClr val=\"151515\""
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"285750\" indent=\"-285750\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:buFont typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/><a:buChar char=\"•\"/></a:pPr>"
+        },
+        {
+          "reference_char_count": 44,
+          "styles_explicit": [
+            {
+              "font_size_pt": 12.0,
+              "family": "Microsoft YaHei UI",
+              "bold": true,
+              "italic": null,
+              "color_xml": "<a:srgbClr val=\"151515\""
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" marL=\"285750\" indent=\"-285750\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc><a:buFont typeface=\"Arial\" panose=\"020B0604020202020204\" pitchFamily=\"34\" charset=\"0\"/><a:buChar char=\"•\"/></a:pPr>"
+        }
+      ]
+    },
+    {
+      "source_shape_id": 25,
+      "name": "矩形 24",
+      "role": "key_technologies_label",
+      "bbox_in": [
+        0.697972,
+        5.74654,
+        0.935949,
+        0.992245
+      ],
+      "bbox_normalized": [
+        0.052327,
+        0.766205,
+        0.070169,
+        0.132299
+      ],
+      "bbox_local_emu": [
+        638226,
+        5254636,
+        855832,
+        907309
+      ],
+      "reference_char_count": 4,
+      "paragraphs": [
+        {
+          "reference_char_count": 4,
+          "styles_explicit": [
+            {
+              "font_size_pt": null,
+              "family": "Microsoft YaHei UI",
+              "bold": true,
+              "italic": null,
+              "color_xml": "<a:srgbClr val=\"151515\""
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" algn=\"ctr\"/>"
+        }
+      ]
+    },
+    {
+      "source_shape_id": 26,
+      "name": "矩形 25",
+      "role": "source",
+      "bbox_in": [
+        1e-06,
+        7.191476,
+        10.751938,
+        0.308523
+      ],
+      "bbox_normalized": [
+        0.0,
+        0.958864,
+        0.80608,
+        0.041136
+      ],
+      "bbox_local_emu": [
+        1,
+        6575886,
+        9831572,
+        282113
+      ],
+      "reference_char_count": 145,
+      "paragraphs": [
+        {
+          "reference_char_count": 145,
+          "styles_explicit": [
+            {
+              "font_size_pt": 10.0,
+              "family": "Microsoft YaHei UI",
+              "bold": null,
+              "italic": true,
+              "color_xml": "<a:srgbClr val=\"151515\""
+            }
+          ],
+          "paragraph_properties_xml": "<a:pPr xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\" xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\"><a:lnSpc><a:spcPct val=\"150000\"/></a:lnSpc></a:pPr>"
+        }
+      ]
+    }
+  ],
+  "placeholders": [
+    {
+      "idx": 1,
+      "type": "SUBTITLE (4)",
+      "bbox_in": [
+        0.797435,
+        0.498834,
+        11.746107,
+        1.086395
+      ]
+    },
+    {
+      "idx": 10,
+      "type": "OBJECT (7)",
+      "bbox_in": [
+        0.805892,
+        1.642595,
+        11.738361,
+        5.129548
+      ]
+    }
+  ],
+  "notes": [
+    "Geometry is measured; roles and content budgets are inferred from one reference slide, not any vendor's official brand rules.",
+    "Do not use the first master or delete the source slide: most meaningful content is not in placeholders.",
+    "Group coordinates were resolved to page coordinates. Master palette swatches lie off canvas and are not report content."
+  ]
+}

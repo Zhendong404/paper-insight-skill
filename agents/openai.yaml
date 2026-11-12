@@ -1,0 +1,7 @@
+interface:
+  display_name: "Paper Insight 论文一页洞察"
+  short_description: "将新论文提炼为红黑灰单页洞察报告，保留三栏版式并区分论文证据与技术启示"
+  icon_large: "./assets/preview.png"
+  default_prompt: "使用 $paper-insight-template 分析这篇论文，生成一页中文洞察 PPT，保留问题、方案、收益三栏，并给出有依据的技术启示。"
+policy:
+  allow_implicit_invocation: true
